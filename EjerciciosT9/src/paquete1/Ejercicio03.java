@@ -37,7 +37,7 @@ public class Ejercicio03 {
                 } 
  }
 }
-        System.out.println(promedio);
+        
         System.out.printf("Valores por encima de la media: %s\n"
                 + "Valores por debajo de la meda: %s\n", elementosArribaMedia,
                                                           elementosAbajoMedia);
